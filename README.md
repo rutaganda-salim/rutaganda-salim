@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rutaganda-salim.rutaganda-salim" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Developer!+;A+Backend+Developer!+;A+Mobile+Developer!+;+A+Web3+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Developer!+;A+Backend+Developer!+;A+Mobile+Developer!+;+A+Smart+Contract+Developer!;" />
 </h1>
 
 <h3 align="center">A passionate Software developer from Rwanda </h3>

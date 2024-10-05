@@ -46,7 +46,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="github contribution grid" src="https://raw.githubusercontent.com/rutaganda-salim/rutaganda-salim/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid" src="https://raw.githubusercontent.com/rutaganda-salim/rutaganda-salim/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>

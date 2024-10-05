@@ -62,6 +62,8 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=rutaganda-salim&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutaganda-salim&hide=HTML&langs\_count=8&layout=compact&theme=react&border\_radius=10&size\_weight=0.5&count\_weight=0.5" alt="top langs of rutaganda-salim" />
+    <br />
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=rutaganda-salim&theme=tokyo-night)
 </div>
 
 <br/><br/>

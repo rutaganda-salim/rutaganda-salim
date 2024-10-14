@@ -12,11 +12,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Digital Wallet**
+ 🔭 I’m currently working on **a UI Library**
  
- 🌱 I’m currently learning **React Native, Supabase, Solana**
+ 🌱 I’m currently learning **Flutter, Solidity, Spring Boot**
 
-💬 Ask me about **Node.js, React, MongoDB...**
+💬 Ask me about **Nextjs, Node.js, React, MongoDB, Prisma...**
 
 ⚡ Fun fact **Python was not named after a snake.**
 
@@ -41,7 +41,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,bootstrap,mui,tailwind,dart,redux,flutter" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,spring,cpp,express,supabase,mongodb,c,java,go,mysql,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,spring,cpp,express,supabase,mongodb,c,java,go,mysql,prisma,solidity" /><br>
 </div>
 
 <br/>

@@ -5,6 +5,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Developer!+;A+Backend+Developer!+;A+Mobile+Developer!+;+A+Smart+Contract+Developer!;" />
 </h1>
+<img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" />
 
 <h3 align="center">A passionate Software developer from Rwanda </h3>
 
@@ -51,6 +52,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="github contribution grid" src="https://raw.githubusercontent.com/rutaganda-salim/rutaganda-salim/output/github-contribution-grid-snake-dark.svg" />
+
   
   <br/><br/><br/>
 </div>

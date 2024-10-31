@@ -12,13 +12,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a UI Library**
+ 🔭 I’m currently working on **Blockchain Dapp**
  
- 🌱 I’m currently learning **Flutter, Solidity, Spring Boot**
+ 🌱 I’m currently learning **HardHat, Solidity,Rust Hypeledger**
 
-💬 Ask me about **Nextjs, Node.js, React, MongoDB, Prisma...**
+💬 Ask me about **Solidity, Nextjs, React, Tailwindcss, Prisma...**
 
-⚡ Fun fact **Python was not named after a snake.**
+⚡ Fun fact **Solidity: Where one missing semicolon can cost you millions!**
 
 🥷 **A b👦y becoming a m🧔‍♂️n**
 
@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nextjs,react,bootstrap,mui,tailwind,dart,redux,flutter" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,spring,cpp,express,supabase,mongodb,c,java,go,mysql,prisma,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,rust,typescript,javascript,nextjs,react,bootstrap,mui,tailwind,dart,redux,flutter" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,spring,cpp,express,supabase,mongodb,c,java,go,mysql,prisma,dart" /><br>
 </div>
 
 <br/>

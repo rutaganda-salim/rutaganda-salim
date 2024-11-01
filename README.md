@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **Blockchain Dapp**
  
- 🌱 I’m currently learning **HardHat, Solidity,Rust Hypeledger**
+ 🌱 I’m currently learning **HardHat, Solidity,Rust, Hypeledger**
 
 💬 Ask me about **Solidity, Nextjs, React, Tailwindcss, Prisma...**
 

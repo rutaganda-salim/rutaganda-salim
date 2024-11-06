@@ -75,6 +75,17 @@
 <div align=center>
   <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=rutaganda-salim&theme=tokyo-night" alt="Contibution Graph" />
 </div>
+<h2 align="center">Favorite Quotes</h2>
+    
+> "The only way to do great work is to love what you do." – *Steve Jobs*
+
+> "No one has ever changed the world by doing what the world has told them to do." - *Eddy Zhong*
+
+> "I don't want a nation of thinkers, I want a nation of workers.” — *John D. Rockefeller*
+
+> "First solve the problem, then write the code" – *John Johnson*
+
+> "Hack the planet!" – *Anonymous*
 
 <br/><br/>
 

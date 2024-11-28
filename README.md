@@ -2,23 +2,23 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rutaganda-salim.rutaganda-salim" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Developer!+;A+Mobile+Developer!+;+A+Smart+Contract+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Engineer!+;+A+Smart+Contract+Developer!;" />
 </h1>
-<img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" />
+<!-- <img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" /> -->
 
-<h3 align="center">A passionate Software developer from Rwanda </h3>
+<h3 align="center">A passionate Software Engineer from Rwanda </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **Blockchain Dapp**
+ 🔭 I’m currently working on **Universe UI**
  
- 🌱 I’m currently learning **HardHat, Solidity,Rust, Hypeledger**
+ 🌱 I’m currently learning **Flutter, UI/UX**
 
 💬 Ask me about **Solidity, Nextjs, React, Tailwindcss, Prisma...**
 
-⚡ Fun fact **Solidity: Where one missing semicolon can cost you millions!**
+⚡ Fun fact **I am A big fan of Blockchain**
 
 🥷 **A b👦y becoming a m🧔‍♂️n**
 
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=solidity,rust,typescript,javascript,nextjs,react,bootstrap,mui,tailwind,dart,redux,flutter" />
+    <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nextjs,react,bootstrap,mui,tailwind,dart,redux,flutter" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,spring,cpp,express,supabase,mongodb,c,java,go,mysql,prisma,dart" /><br>
 </div>
 

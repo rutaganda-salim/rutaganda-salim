@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rutaganda-salim.rutaganda-salim" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+A+Frontend+Engineer!+;+A+Smart+Contract+Developer!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Salim+Rutaganda!+;+Solopreneuer+;+A+Frontend+Engineer!+;+A+Smart+Contract+Developer!;" />
 </h1>
 <!-- <img src="https://static.vecteezy.com/system/resources/previews/006/181/890/non_2x/crypto-currency-icons-background-digital-money-exchange-of-blockchain-technology-banner-cryptocurrency-mining-and-financial-concept-vector.jpg" /> -->
 
@@ -12,15 +12,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Universe UI**
+ 🔭 I’m currently building a **Startup**
  
- 🌱 I’m currently learning **Flutter, UI/UX**
+ 🌱 I’m currently learning **UI/UX**
 
 💬 Ask me about **Solidity, Nextjs, React, Tailwindcss, Prisma...**
 
 ⚡ Fun fact **I am A big fan of Blockchain**
 
-🥷 **A b👦y becoming a m🧔‍♂️n**
 
  </div>
  
